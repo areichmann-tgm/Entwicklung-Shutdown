@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Gamescreen.unity
+- path: Assets/tart.unity
   isLoaded: 1
   isActive: 1
