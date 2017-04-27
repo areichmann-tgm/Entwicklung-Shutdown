@@ -5,8 +5,8 @@ using UnityEngine;
 
 public class Startbuttonscript : MonoBehaviour {
 
-	public void Update () {
+	 public void ChangeScene () {
 		SceneManager.LoadScene ("Gamescreen");
-        print("Halo");
+        
 	}
 }
