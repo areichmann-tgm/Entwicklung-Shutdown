@@ -81,6 +81,7 @@
     <Compile Include="Assets\Hilfebuttonscript.cs" />
     <Compile Include="Assets\Impressumbuttonscript.cs" />
     <Compile Include="Assets\Startbuttonscript.cs" />
+    <Compile Include="Assets\UseBackbutton.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
