@@ -15,7 +15,7 @@ public class AsteroidSpawnScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		scoreText = gameObject.GetComponent<Text>(); 
+		//scoreText = gameObject.GetComponent<Text>(); 
 		timer = delayTimer;
 		 
 	}
